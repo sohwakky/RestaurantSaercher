@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestaurantSearcher</string>
+    <string name="tv_searchRange">検索範囲を選択してください</string>
+    <string name="bt_search">検索</string>
+    <string name="bt_range300">300ｍ以内</string>
+    <string name="bt_range500">500ｍ以内</string>
+    <string name="bt_range1000">1000ｍ以内</string>
+    <string name="bt_range2000">2000ｍ以内</string>
+    <string name="bt_range3000">3000ｍ以内</string>
+</resources>
